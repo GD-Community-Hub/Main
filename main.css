@@ -23,6 +23,9 @@ a {
 a:hover {
   text-decoration: underline;
 }
+.disclaimer {
+  height: 7em;
+}
 .project * {
   margin: 0;
 }
