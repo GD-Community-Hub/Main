@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;500&display=swap");
+
+body {
+  color: #fff;
+  font-family: 'Ubuntu';
+  text-align: center;
+}
+.copyright {
+  font-weight: 300;
+  font-size: 0.75em;
+}
+.project {
+  background: #fff2;
+  padding: 1em;
+  border-radius: 0.5em;
+  text-align: left;
+  margin: 0em 1em;
+}
+a {
+  color: #08f;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+.project * {
+  margin: 0;
+}
